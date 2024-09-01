@@ -18,7 +18,7 @@ VigiAI CCTV adalah solusi inovatif berbasis AI dan deep learning untuk mendeteks
 2. Pengaturan: Konfigurasi sistem teknisi kami pada saat menghubungi kami.
 3. Penggunaan: Monitor aktivitas mencurigakan.
 
-# Video Demo
+# Demo
 https://github.com/user-attachments/assets/e83065ef-fa9d-4771-97d3-426303081cf9
 
 # Kontribusi

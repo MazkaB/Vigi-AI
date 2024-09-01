@@ -14,9 +14,8 @@ VigiAI CCTV adalah solusi inovatif berbasis AI dan deep learning untuk mendeteks
 3. Customer Support: 24/7 Customer Support.
 
 # Instalasi dan Penggunaan
-1. Instalasi: Integrasi dengan sistem CCTV (Wired) yang sudah ada.
-2. Pengaturan: Konfigurasi sistem teknisi kami pada saat menghubungi kami.
-3. Penggunaan: Monitor aktivitas mencurigakan.
+1. Download semua library yang dibutuhkan
+2. Jalankan app.py untuk melakukan testing
 
 # Demo
 https://github.com/user-attachments/assets/e83065ef-fa9d-4771-97d3-426303081cf9
